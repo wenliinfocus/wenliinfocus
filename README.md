@@ -5,11 +5,13 @@ I'm currently working on projects related to data analyst and slowly but surely 
 - 👀 Background in e-commerce & finance.
 - 🌱 Learning more about and studying: Data & Cybersecurity
 - ⚡ Fun fact: Looking to complete a half marathon this year!
+- 🎧 My recent go to music: <a href="https://www.youtube.com/watch?v=xlyrt5eAtKI&ab_channel=SMTOWN">Red Velvet - Chill Kill</a>
 
 ### Currently 🍵
 
 💬 **Hustling about:**
-- `.sql`, `.html`, `svg`
+- `.sql`, `.html`, `.css`, `svg`
+- Power BI & Tableau
 - Data & Cybersecurity
 
 
