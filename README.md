@@ -3,9 +3,13 @@ I'm currently working on projects related to data analyst and slowly but surely 
 
 ### About me
 👀 Background in e-commerce & finance.
+
 🌱 Learning more about and studying: Data & Cybersecurity
+
 ⚡ Fun fact: Looking to complete a half marathon this year!
+
 🎧 My recent go to music: <a href="https://www.youtube.com/watch?v=xlyrt5eAtKI&ab_channel=SMTOWN">Red Velvet - Chill Kill</a>
+
 
 ### Currently 🍵
 
