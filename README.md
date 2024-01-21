@@ -9,14 +9,14 @@ I'm currently working on projects related to data analyst and slowly but surely 
 
 ⚡ Fun fact: Looking to complete a half marathon this year!
 
-🎧 My recent go to music: <a href="https://www.youtube.com/watch?v=xlyrt5eAtKI&ab_channel=SMTOWN">Red Velvet - Chill Kill</a>
+🎵 My recent go to music: <a href="https://www.youtube.com/watch?v=xlyrt5eAtKI&ab_channel=SMTOWN">Red Velvet - Chill Kill</a>
 
 
 
 ### Currently 🍵
 
 💬 **Hustling about:**
-- `.sql`, `.html`, `.css`, `svg`
+- `.sql`, `.html`, `.css`
 - Power BI & Tableau
 - Data & Cybersecurity
 
