@@ -17,7 +17,7 @@ I'm currently working on projects related to data analyst and slowly but surely 
 
 💬 **Hustling about:**
 - `.sql`, `.html`, `.css`
-- Power BI & Tableau
+- Excel, Power BI & Tableau
 - Data & Cybersecurity
 
 
