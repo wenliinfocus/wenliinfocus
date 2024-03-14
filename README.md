@@ -1,11 +1,11 @@
 ## Hi, I’m Wen Li 👋
-I'm currently working on projects related to data analyst and slowly but surely in my learning progress of cybersecurity. I have a Bachelor's degree in Finance.
+I'm currently working on projects related to data analyst and slowly but surely in my learning progress of data science. I have a Bachelor's degree in Finance.
 
 
 ### About me
 👀 Background in e-commerce & finance.
 
-🌱 Learning more about and studying: Data & Cybersecurity
+🌱 Learning more about and studying: Data, Coding & Cybersecurity
 
 ⚡ Fun fact: Looking to complete a half marathon this year!
 
@@ -16,7 +16,7 @@ I'm currently working on projects related to data analyst and slowly but surely 
 ### Currently 🍵
 
 💬 **Hustling about:**
-- `.sql`, `.html`, `.css`
+- `.sql`, `.html`, `.css`, `.c`
 - Excel, Power BI & Tableau
 - Data & Cybersecurity
 
